@@ -1,0 +1,53 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=58119 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-14-program-1-student-app-jsonnek/out/production/Student APP Main
+What would you like to create? (1. Person, 2. Student):
+2
+Enter your first name:
+Eli
+Enter your last name:
+Sonnek
+Enter your gender:
+M
+Enter your age:
+14
+Enter your weight:
+125
+Enter your height:
+60
+Enter your ethnicity:
+White
+Enter your religion:
+Catholic
+Enter your major:
+Computer Engineering
+Enter your year:
+0
+Enter your email:
+eli.sonnek@outlook.co
+
+Student Information:
+--------------------
+First Name:  Eli
+Last Name:   Sonnek
+Gender:      M
+Age:         14
+Weight:      125.0
+Height:      60.0
+Ethnicity:   White
+Religion:    Catholic
+Major:       Computer Engineering
+Year:        0
+Email:       eli.sonnek@outlook.co
+
+Select task to execute (1.Greeting, 2.Prayer, 3.Take a Nap, 4.Eat something, 5.Name, 6.Change Religion, 7.Go to Class, or 0 to exit):
+4
+I am eating a hamburger.
+
+Select task to execute (1.Greeting, 2.Prayer, 3.Take a Nap, 4.Eat something, 5.Name, 6.Change Religion, 7.Go to Class, or 0 to exit):
+7
+Walking to class...
+
+Select task to execute (1.Greeting, 2.Prayer, 3.Take a Nap, 4.Eat something, 5.Name, 6.Change Religion, 7.Go to Class, or 0 to exit):
+0
+Goodbye!
+
+Process finished with exit code 0
