@@ -1,6 +1,6 @@
 // Jonathan Sonnek
-// April 20 2026
-// Person Tasks APP
+// May 7 2026
+// Student APP
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
